@@ -32,7 +32,7 @@
   e. false
   f. true
 15. The == operator compares 2 values without compriong their data types. The === operator is more streamlined and compares the data types of the values with their values.
-16. i
+16. [answer](https://github.com/samhormozian1/sp24-cse110-lab4/blob/main/expose/javascript/part2-question16.js)
 17. The result of modifyArray([1,2,3], doSomething) will be [2,4,6] because the function doSomething returns the double of an integer which is its parameter. So the array [1,2,3] doules and turns into [2,4,6].
-18. i
+18. [answer](https://github.com/samhormozian1/sp24-cse110-lab4/blob/main/expose/javascript/part2-question18.js)
 19. The intial output of the code is 1 then 4 becuase they are not affected by the setTimeout function in the code. However the other 2 outputs are, so 3 is then outputted. Then after 1 second (1000 miliseconds) 2 will then get outputted. So the total output of this function is 1, then 4, then 3, then 2.
